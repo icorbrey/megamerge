@@ -1,0 +1,13 @@
+[package]
+name = "megamerge"
+version = "0.0.0"
+edition = "2024"
+description = "A megamerge manager for Jujutsu"
+license = "GPL-3.0-only"
+repository = "https://github.com/icorbrey/megamerge"
+documentation = "https://docs.rs/megamerge"
+keywords = ["jujutsu", "jj", "tui", "vcs", "merge"]
+categories = ["command-line-utilities", "development-tools"]
+authors = ["Isaac Corbrey <isaac@isaaccorbrey.com>"]
+
+[dependencies]
